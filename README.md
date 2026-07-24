@@ -102,9 +102,14 @@ A real-time multiplayer chess platform built around WebSocket-based communicatio
 - 🧪 Load-tested locally with 50+ concurrent matches and 5,000+ simulated moves, averaging under 100ms synchronization latency
 
 <div align="center">
-<a href="https://github.com/kuldeep0005482/Chess_Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuldeep0005482&repo=Chess_Application&theme=tokyonight&hide_border=true" alt="Multiplayer Chess Game Repository"/>
-</a>
+
+**[📂 Chess_Application](https://github.com/kuldeep0005482/Chess_Application)**
+
+[![Stars](https://img.shields.io/github/stars/kuldeep0005482/Chess_Application?style=flat-square&color=58A6FF)](https://github.com/kuldeep0005482/Chess_Application/stargazers)
+[![Forks](https://img.shields.io/github/forks/kuldeep0005482/Chess_Application?style=flat-square&color=58A6FF)](https://github.com/kuldeep0005482/Chess_Application/network/members)
+[![Top Language](https://img.shields.io/github/languages/top/kuldeep0005482/Chess_Application?style=flat-square&color=58A6FF)](https://github.com/kuldeep0005482/Chess_Application)
+[![Last Commit](https://img.shields.io/github/last-commit/kuldeep0005482/Chess_Application?style=flat-square&color=58A6FF)](https://github.com/kuldeep0005482/Chess_Application/commits/main)
+
 </div>
 
 <br>
@@ -122,9 +127,14 @@ A GitHub-inspired repository and project management platform, paired with a cust
 - 💻 Custom Git-like CLI supporting init, staging, commits, push/pull, commit history, and commit reversion via Node.js filesystem operations
 
 <div align="center">
-<a href="https://github.com/kuldeep0005482/Project-Management-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuldeep0005482&repo=Project-Management-tool&theme=tokyonight&hide_border=true" alt="Project Management Platform Repository"/>
-</a>
+
+**[📂 Project-Management-tool](https://github.com/kuldeep0005482/Project-Management-tool)**
+
+[![Stars](https://img.shields.io/github/stars/kuldeep0005482/Project-Management-tool?style=flat-square&color=58A6FF)](https://github.com/kuldeep0005482/Project-Management-tool/stargazers)
+[![Forks](https://img.shields.io/github/forks/kuldeep0005482/Project-Management-tool?style=flat-square&color=58A6FF)](https://github.com/kuldeep0005482/Project-Management-tool/network/members)
+[![Top Language](https://img.shields.io/github/languages/top/kuldeep0005482/Project-Management-tool?style=flat-square&color=58A6FF)](https://github.com/kuldeep0005482/Project-Management-tool)
+[![Last Commit](https://img.shields.io/github/last-commit/kuldeep0005482/Project-Management-tool?style=flat-square&color=58A6FF)](https://github.com/kuldeep0005482/Project-Management-tool/commits/main)
+
 </div>
 
 <div align="center">
